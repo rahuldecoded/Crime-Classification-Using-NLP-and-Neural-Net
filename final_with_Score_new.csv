@@ -1,0 +1,778 @@
+,info,event_maintype,Category,Similarity Score
+0,"arrack prepration in a house
+
+loc  thottassery veedu (Hari babu), panamanna south,  ottapalam ps, near panamanna south vayanasala  7012714749",OTHERS,Ambulance,0.4193157
+1,"caller informs that she was alone,she heard 3 persons foot steps sound near her house,need police help 9847755778 - Sujatha,Pallolil House,angadi p.o,Loc : Ranni - Thiruvalla route,Near New India church of God Bandhicose church,Ranni p.s",NIZHAL PANIC CALL,"Police, Ambulance","1.0, 0.53521705"
+2,"CALLER INFORMED SOME ONE SUSPICIOSLY SEEN NEAR TO HOME AT CHUNGAM,MANNARKADU ,HOME NEAR TO CHUNGAM SREE MAHA VISHNU TEMPLE",OTHERS,Police,0.48562047
+3,"Illegal mining of sand  Loc;- Chamravattom, near Pump house   9061639996",OTHERS,"Police, Ambulance","0.99999994, 0.58611804"
+4,"caller hear a  strange peson`s sound at back side of her home and she suspecting that he has thief, UNRA:226, sundaram, back side of govt women hospital thycaud, thampanoor ps,9037962438.",THEFT,"Ambulance, Police","1.0, 0.99999994"
+5,"stranger person found at edappon near bevco,nooranad,7012946470",OTHERS,Police,0.5239228
+6,caller inform that his friend need police and ambulance help at parad panoor ps limit near jumamasjid parad near medical shop parad 6296243167,OTHERS,"Police, Ambulance","1.0, 1.0"
+7,"caller informs that 6 persons come to his house & threatenig him,need police help 9847391753 - Dinesh Babu,Babu Sadanam,Thannichankuzhi,,Loc : Panniyodu,Opposit R.C Church,Kattakkada p.s",OTHERS,"Police, Ambulance","1.0, 0.53521705"
+8,"Some one Knocked the door of complainants house LOc; Maniyankara colony, Thekkumbhagom PS Ph;9048289018",OTHERS,Ambulance,0.5458512
+9,A tanker lorry dumping toilet waste at Kaloor Judjes avanue9447172070,OTHERS,"Ambulance, Fire","0.5670359, 0.56045026"
+10,"Caller need ambulance service for her mother in law....loc : near to vyttila hub exit, vyttila, maradu ps, ernakulam...8589923016",PERSON COLLAPSED,"Ambulance, Police","1.0, 0.53521705"
+11,"caller informs that country liquor & Ganja selling at Padassery Kuttans compound 7356495405 - Syam kumar,Loc:Padassery,Near Puthan kotta Cemetry,Fort p.s",OTHERS,Ambulance,0.45755398
+12,"2 outside state men found suspicously near Tessy doctors clinic, Thrikkariyoor- Ayakkad road, Kothamangalam . The caller is waiting there. ph8606262632",OTHERS,Ambulance,0.7070394
+13,"caller informs that a container lorry hit an Elexctric post,electric post broken,no one injured  road block 8848988125 Loc : Ernakulam - Kodungallooor route,Vaikulangara,Vadakkekara p.s",ACCIDENT,"Ambulance, Fire","0.66511214, 0.5704974"
+14,Complainants hand dislocated and he need vehicle to go hospital. ph ;7907680962,OTHERS,"Ambulance, Police","1.0, 0.51478356"
+15,"Caller suspects theives around his residence  area,   Loc:-  Chenganoor market road near Royal agency, near MLA's office   and a student hostel   9961513769",OTHERS,Police,0.56213063
+16,"caller informs that an Autoriksha fell down at Karunagapally,Lalaji Junction ,near Gurumandiram casualty need ambulance 7994137405 Karunagapally p,s,Informed 108",ACCIDENT,"Ambulance, Police","1.0, 0.53521705"
+17,"Theft of 5 mobile from other states labour camp , location thatamala vhss near, eravipuram ps limit 7384751108",THEFT,Police,1.0
+18,some people gathering near Kayamkkulam markket need police help,OTHERS,"Police, Ambulance","1.0, 0.53521705"
+19,"crowd gathered and fishing and participating in auction.
+loc: bhagavan mukku, near kolavipalam, payyoli beach road.",OTHERS,Ambulance,0.5786054
+20,"Group of people (ladies and gents) walking through the Ulikkal area as a part of Morning walk without any safety measures. (Routes: Maramill road, Kalluveli road, road towards Nellikkamboyil church..) [Caller - 9746206789]",OTHERS,"Ambulance, Police","0.63804764, 0.5228763"
+21,Caller is seeking ambulance for bringing her mother of 68 years suffering with chest pain related to Heart Issues.. Loc: Opposite Elimala Railway station > Near Gopal UP School Kunhimangalam (Caller - 9995873920),HEART ATTACK,"Ambulance, Police","1.0, 0.58279204"
+22,"people gathering infront of tea shop, ek padi, vengara ps,7293461186.",OTHERS,Police,0.40930378
+23,"caller need medicins , to give whatsapp number",MEDICAL SUPPLY,Ambulance,0.41050482
+24,"A tree is leaning upon a house in a dangerous manner. Near Leo 13th CBSE School, Mangode.  Alapuzha North PS limit.   9747677889",OTHERS,Ambulance,0.5587714
+25,crowd gathered at cherthala merket ph 8301095464,OTHERS,Ambulance,0.5786054
+26,"A tree  slanded on to the  house  Loc:- near Keloth LIO  School, Poonthope    9961589336",HAZARDOUS CONDITION INCIDENTS,Ambulance,0.49126267
+27,Caller informs above 40 people is doing spiritual rituals inside the Thirumullavaram Sri Maha Vishnu Temple. (caller - 8086793786),OTHERS,Ambulance,0.4593932
+28,"people gathering infront of tirur bus stand ,tirur ps,7034222606.",OTHERS,Police,0.40930378
+29,tea shop opened crowd gathered at kidangoor manjappara kappela ph 9207252003,OTHERS,Ambulance,0.5786054
+30,"Caller is a widow and is alone in the house. Seeking help to take hospital due to physical illness.. Loc: Mariyamma , Palathunkal House , Near Govt. School Kuppady (Caller - 9544238514)",OTHERS,"Ambulance, Police","1.0, 0.5349043"
+31,"caller informed fish selling near padannilam village office and crowd found there.
+loc: nooranad ps
+7034374088",OTHERS,Ambulance,0.5786054
+32,needed medicine asked him to send msg to 9400355245 for further action 7902629506,MEDICAL SUPPLY,Ambulance,1.0
+33,"CALLER INFORMED THAT A HUGE  CROWD IN TV PURAM MARKET NEAR MARKET TV. PURAM KOTTAYAM, VAIKKOM PS",OTHERS,Ambulance,0.5786054
+34,"caller informs that more than 30 persons were trying to fishing and making nuisance to public 9447257364,Loc :North side of Kalarikkal Temple,South side of Maliiyekkal,Kareelakulangara p.s",OTHERS,"Police, Ambulance","0.5536479, 0.547318"
+35,"Alleged crowd gathering in a religious convention headed by Swami Udit Chaithanyagi which was telecasted in JANAM TV today at 6 am . Since the incident location is unknown from the program itself ; gave directions to the caller to file a written complaint at the nearby Police station regarding the matter.
+Enquired about the matter to the cordinators of the program and they denied of the live telecast and also stated that the previous programs are being telecasted daily at 6 am. Hence this event may be closed.",OTHERS,"Police, Ambulance","1.0, 0.5786054"
+36,"caller need police help , his family members are harasing , he is vocaly problemed person at 
+TANUR, CHIRAKKAL, PADINJAREPPURATHU
+9188244769",OTHERS,"Police, Ambulance","1.0, 0.53521705"
+37,"un auotharised sale of fish at mukhathala,kottiyam PS,9605902804",OTHERS,Police,0.47886887
+38,"caller informs more than 20 persons were gathering at a Tea shop 8590067404 Loc :Nettayam,Manalayam,Near R.C.church,Vattiyoorkavu p.s",OTHERS,Police,0.48628274
+39,crowd gathered near chemparathyvila. neyyattinkara PS.,OTHERS,Ambulance,0.5786054
+40,"Crowd in Nellikunnu Kadappuram
+Ph:9567104691",OTHERS,Ambulance,0.5786054
+41,caller informed that many people gathered in kallanickal jn.thodupuzha ps ph;9847169328,OTHERS,Police,0.48562047
+42,"caller informed that neighbour creating problem 
+loc- keezthani ,near vishnumaya temple ,katoor ps 
+8943305712",OTHERS,Police,0.48562047
+43,"cancer patient need medicine 
+ asok kumar (53)
+kottukkal 
+ chadayamangalam ps",MEDICAL SUPPLY,"Ambulance, Police","1.0, 0.516691"
+44,"A Barber shop is opened at Chithara Pezhumoodu Jn , Kadakkal PS
+9048199187",OTHERS,Ambulance,0.46881586
+45,"One Ramakrishnan(S/o Bosen & Perumaya) came from Tamilnadu and stayed in Mali,near to BSNL Tower,Vandanmedu PS
+9061701000",OTHERS,Ambulance,0.49392733
+46,"people gathering at a tea shop . near rajamudi mesha church, kelakam ps
+9496474098",OTHERS,Ambulance,0.4193157
+47,Usha   rajaji nagar making problew with caller at land  property   opposite    laya musicals     panavila   junction  bakery -thampanoor road 9349498520,OTHERS,Ambulance,0.44929183
+48,"More than 40 peoples worked in GDS TRIVENI AGARBATHI COMPANY
+Loc-Valiyara,Vellanad
+8547823779",OTHERS,Non Crime,0.3765002
+49,"unloading of briks near Vazhuthoor Residencial area, the labourers using no masks.
+Loc: near a Church at Vazhuthoor jn",OTHERS,"Police, Fire","0.5292418, 0.50761795"
+50,"More than 30 peoples working in Andakaranazhi beach,Chemmeen shed,pattanakkad,9349288192",OTHERS,Non Crime,0.32468447
+51,"people gathered in a tea shop.
+Loc : Sithara Junction, Near KIMS Hospital, Kottiyam PS, 8289845823",OTHERS,Ambulance,1.0
+52,the caller informed that some persons are seling liquor at  greenvaram enthrapalam meenaksharpuram ps,OTHERS,Police,0.48628274
+53,"migrant labourers fighting each other ,behind subjail,anandavaleeswaram, west ps 7025482074",THREAT,Police,0.5655787
+54,"unusual things seen in the brach office of manappuram finance, Vellakkinar.
+Smoke inside the office,fan broken down stc
+Alappuzha South PS",OTHERS,Ambulance,0.4758058
+55,"caller informed people gathered and construction work is going on ,with out keeping social distance.
+loc;kainatty beach road varapurathu moly house near varapurathu health centre vadakara ps ph;9846265018",OTHERS,"Police, Ambulance","0.5427759, 0.5417813"
+56,"caller informed that huband making problem to the wife 
+add: rejani puthenkandathil veedu manathavady ward 3
+loc:near kottayadankunthu aganvady mananthavadi ps 7025010970",OTHERS,"Ambulance, Police","0.59526384, 0.58688027"
+57,"caller informed house construction jobs are doing near by caller  home 
+loc : binanapuram / second cross / Adakathidu Rd residents/ kongorpally  9495280706",OTHERS,Police,0.48562047
+58,"4 persons drains out water from a canal using motor for FISHING
+Loc:Near to Kanninada Saw mill,Pallikunnu,Thodannur
+7591966147",OTHERS,Fire,0.60581565
+59,"caller informed grandfather pazhakekku soman making problem in the house.
+loc;soumya bhavan eezhakuzhy malamugal nettayam vattiyoorkav ps ph;8606782980",OTHERS,Police,0.48562047
+60,"illegal sale making of arrak
+loc:near madayil temple, malavila,ayiroor ps 9947528236",OTHERS,Police,0.99999994
+61,"caller inform that her neighbour making problems,loc: house near panaykkal kavu devi temple,vakathanam ps 9947496758",CRIME AGAINST WOMEN,Police,0.4778206
+62,"People gathered there.
+
+Loc - Kadathukadavu, Neeleswara Thoppu,  Chavara PS, Kollam.
+PH :: 9526487168",OTHERS,Ambulance,0.4104731
+63,"Caller in formed a unknown person travelled KL.07.CF.2913 white Taxi car and  he is staying in Jobi vergheese's House Loc:Mulayaveli,Karukachal PS 9495685043",OTHERS,Ambulance,0.61086017
+64,"About 12 peoples gathered in a bridge near to Elavangal temple, Studio Road, Nemom
+Ph:8157984844",OTHERS,Ambulance,0.4193157
+65,"caller is attacked by her relative at muneeshwaram kunnu , 6 th ward , thalapuzha ps 9605938632",OTHERS,Police,0.67764646
+66,"caller inform that someone trespasses her home and making problems to her,loc: kaivalya mandiram,anchuthengu junction,anchuthengu ps 9142766436",CRIME AGAINST WOMEN,Police,0.4778206
+67,"people gathered at a teashop,(owned by kunjumol),caller also complainted that the shop will be open even after 5 pm by putting the shutter partialy down,and  they are violating all lock down rules 
+loc: at canal junction,punalur ps
+9747134400",OTHERS,"Police, Ambulance","0.58270067, 0.55410254"
+68,"caller informed that ambili and aji making problem to his mother( leshmikutty amma)
+loc;poruvazhi panchayath ellumula thekkethil veedu leshmikutty amma south side of malanada temple sooranadu ps ph;8129750276",OTHERS,Ambulance,0.5516278
+69,"MANNA ICE CREAM FACTORY (FIFA ) IS OPENED LOCATION KOTTARAKARA, KOCHUVILA BHAGAM  KIZHAKATHERVU",OTHERS,Police,0.5148149
+70,"caller inform that daily seen high crowd and rush at KECHERI CHITS AND FINANCES, Kannanalloor,Kottiyam - Kundara Rd,Kannanalloor PS 7561068887",OTHERS,Ambulance,0.5786054
+71,"Hardware shops are open and functioning  PT Hardware,Erikkal traders,Beena hardwares Loc:Pullukulangara,Kayamkulam PS 8921364270",OTHERS,Ambulance,0.49565232
+72,"father  babu   age 65   mentally  challenged  making problems at house need help to take hospital   
+loc-9745006673 ,Shibin  kaniyamparamil, karayalmethu, near   excise checkpost  near  railway  over bridge , Aryankavu , Thenmala ,kollam",OTHERS,"Ambulance, Police","1.0, 0.615821"
+73,"crowd at ration shop amnd a teashop near thumpara devi temple, pulimoodu, mundakkal, east ps kollam",OTHERS,Ambulance,0.5786054
+74,"Crowd in a fish market at Thekkumbhagam Bridge , near St.Joseph Church , Thekkumbhagam PS
+8547703386",OTHERS,Ambulance,0.5786054
+75,"the caller informed that a person named manoharan residing at  kuthuvila mudikayam, Iritty PS limit going to karnataka for work daily through forest route , now he is at kottichupara quaters at kerala Karnataka border",OTHERS,Ambulance,0.5199893
+76,"mini lorry fell down.diesel leaking .loc:potta over bridge,chalakudy ps9847621101",ACCIDENT,"Ambulance, Fire","0.6243814, 0.5420889"
+77,"A person named Vijayan was working in Tamilnadu and other states is came recentely to house at puthenthura, is not under Quarentine. caller informed that he has to be go under quarentine. West side of Titanium Factory, puthenthura.
+9847355979",OTHERS,Fire,0.5412146
+78,"brother making serious problems in the house,lathika bhavan,thattakulam,near puttingal temple,kottappuram,paravur ps 8547160014",THREAT,"Police, Ambulance","0.56085914, 0.50735384"
+79,"mahi and wife ajitha ..brewing arrack.
+loc:- near ayyapa temple, decent mukku, kulathuoorpuzha,, ps kollam
+04752319269",OTHERS,"Ambulance, Police","0.59526384, 0.58688027"
+80,"Construction work is going on near Vattapparambu, Vengara PS limit",OTHERS,Ambulance,0.5199893
+81,washer a raw material  used for brewing arrack is kept at TSunami rehabitation shed at tharayilkadavu jn thrikannapuzha ps,OTHERS,Ambulance,0.48545203
+82,"caller said that so many   people gathering   and  selling and buying  including fish infront of her house which making difficulties for her .
+9048166667 kavitha house no 71   venkulangara nagar , near kavanadu market , kollam",OTHERS,Ambulance,0.5424937
+83,"caller inform that neighbour attack with knife,some small injury,threatening to kill him,loc: santhinagar colony,pongamthanam,Vakathanam Ps  8606759871",OTHERS,"Police, Ambulance","0.99999994, 0.56493634"
+84,"caller informed that people gathered at funeral house 
+loc- west kallada ,opposite primary health centre ,kunnil hospital ,sathamkotta ps 
+9497964523",OTHERS,"Ambulance, Police","1.0, 0.5427759"
+85,"dispute between daughter and mother in law 9061654867cheruvallimelil kozha po  uzhavoor ,kottayam kuravilangadu ps",OTHERS,"Ambulance, Police","0.5516278, 0.52011967"
+86,the caller needs medcine for his relative who is undergoing dyalisis . Directed the caller to send a whats up message to 9400355245 as per the format,MEDICAL SUPPLY,Ambulance,0.4792259
+87,"Traffic block due to a minor accident at Moongottukonam.
+near a Tea Shop
+According to  caller ths area is under Malayinkeezhu PS",TRAFFIC BLOCK,Ambulance,1.0
+88,"VIOLATION OF LOCKDOWN PEOPLE ASSEMBLED NEAR GURU MANDIRAM AMRITHA SCHOOL OF AYURVEDA AND HOSPITALS  KARUNAGAPALLY PS 
+6282702805",OTHERS,"Ambulance, Police","0.70039165, 0.5667782"
+89,"ganja husband making serious problems in the house,ramani niwas,near kannika matha high school  7736237892",CRIME AGAINST WOMEN,"Police, Ambulance","0.56085914, 0.5416523"
+90,"childrens playing Loc:Vanitha center,Kosamattom colony,East PS 9142051188",OTHERS,Ambulance,0.42825478
+91,"sale of drugs paddy field  near kottappram temple, neeleswaram ,ps 9497633359",OTHERS,"Police, Ambulance","1.0, 0.5323963"
+92,"A man named Sasi making problem to callers mother, he is bootleging himself and drinking at cheenthalar chitpura lathe.
+9744953821",OTHERS,"Ambulance, Police","0.5516278, 0.5413315"
+93,"caller named jessy informed ,binu (vazhayil veedu,thalachira ,pathanamthitta)kidnapped her.6238543119",CRIME AGAINST WOMEN,Police,0.48562047
+94,"One family suspeciously came from Palakkad, caller doubts that they doesnot inform anybody
+Mukkungal house, Parambathu Tmple, Via Irumbapanam, Eroor, Thripunithura, Hillpalace PS, EKM
+7902906598",OTHERS,Police,0.4778206
+95,"caller informed that two shop opened.
+mullas mobiles -kallupalam
+stationary shop-kidagamparambu near kidagamparambu temple. ph;7012060920",OTHERS,Police,0.48562047
+96,crowd in front of a t shop at thangal nagar palluruthy ps,OTHERS,Ambulance,0.5786054
+97,"caller is an old lady,she was threatened by vishnu,who was travelling on bike KL 29 4170,he is callers neighbour,daily parks bike at callers home,caller warned him to take his bike away,he also have some arrack related bussiness,loc: mohanan,vandipeedikayil,erikkavu po,kumarapuram,Thrikkunnappuzha Ps  7025462822",CRIME AGAINST WOMEN,"Police, Ambulance","0.6616082, 0.5220726"
+98,caller informed that caller friend met an accident near vazhachal bridge friend phone no:9496455178 need police help,ACCIDENT,"Police, Ambulance","1.0, 1.0"
+99,"caller informed a group of people try to attack her family need a police help 
+loc : biju bhavanam / hanaseha vilasam /  kallupady /  8157849067",CRIME AGAINST WOMEN,"Police, Ambulance","1.0, 0.53521705"
+100,"a person is ill needed a vechile , location payarukad sreekrishna temple , vaikkom ps limit 9562256348",OTHERS,Ambulance,1.0
+101,"family issue, near vattakkayam, kunnathuvathukkal, vellor road, infront of thevalakkad madanthampuran temple, need police help. calle rno9846234532",OTHERS,"Police, Ambulance","1.0, 0.53521705"
+102,"need vehicle to go to home from beach hospital
+vellyil ps
+9847080116",OTHERS,"Ambulance, Police","0.5249698, 0.51478356"
+103,"caller said that she and a patient from RCC trivandrum are on the way to trivandrum to kannur , they are at nettoor the driver is sleepy so they need another ambulance for the rest journey 
+loc:nettoor 
+9207499010",OTHERS,"Ambulance, Police","1.0, 0.53521705"
+104,caller informed that sand mining at Elavangamoola.  Vlathankara. Parassala PS.9061887346,OTHERS,Police,0.48562047
+105,"stranger person laying on out house of caller home (francis disousa,shetty gadhea ,kumbala),9048881224",OTHERS,Police,0.5239228
+106,"callers wife is sick need police assistance to reach hiome
+loc:aruvikkara
+near the shiv temple 
+
+aruvikkara ps  9072880340",OTHERS,"Police, Ambulance","1.0, 0.59526384"
+107,"caller said that, requsted police help, going to hospital, near parakkonam, kunnumpurathu veedu, aruvikkara junction, near shiva temple, aruvikkara junction, Emergency nneed police help, caller no9072880340",OTHERS,"Police, Ambulance","1.0, 1.0"
+108,"HUSBAND BEAT HIS WIFE ,CALLER WIFE /IMMEDIATLY NEED POLLICE HELP (THRIKKUNNAPUZHA PS LIMIT, NEAR PERUMPALLI BRIDGE RAJEEV HOUSE(JITH)CONT NO 7306612122",CRIME AGAINST WOMEN,"Ambulance, Police","0.59526384, 0.58688027"
+109,"alarm from bank 
+loc:axis nbank kattapana 
+8547621596",OTHERS,Police,0.4510699
+110,"a car scene suspecioly and didint stopped while chekking loc : new mahe 
+kl 10 ay 2121
+white car 
+new mahe to thalassery route 
+
+ new mahe  ps",OTHERS,Ambulance,0.61086017
+111,"A lady is trying to commit suicide in a seashore...
+loc : kasthurba junction west side, mararikulam ps, alappuzha....8086859729",ACCIDENT,"Police, Ambulance","0.6393695, 0.5342002"
+112,"some one standing in front of the house with a light , location malayadum thuruthu , vazakulam ps limit 9744062834",OTHERS,Fire,0.41363898
+113,"caller he has some heart dises problem need vehicle service for going hospital (vinode,pullikothu,valamkulam,chevayyur,kozhikode),8078897598",OTHERS,"Ambulance, Police","1.0, 0.51478356"
+114,"Caller informed that someone is seen suspiciously in her compound....
+loc : kackottumoola, eravipuram ps, kollam....9544723994",CRIME AGAINST WOMEN,Ambulance,0.5911831
+115,"making arrack at amali johnson house
+loc : shuttermukk
+pathanamthitta ps 
+neAR the penthacose church",OTHERS,Ambulance,0.4193157
+116,"people gathered in front of a live tea shop 
+loc: chemthruthu ,near thottakam vieatnam jtn 
+9747484858",OTHERS,Ambulance,0.4193157
+117,"a person is lying infront of the callers house , location infopark cherthala pallipuram 9995136087, cherthala ps",OTHERS,Police,0.51630324
+118,"Alarm sound is hearing from an ATM Counter...
+loc : karimughal, ambalamedu ps, ernakulam....9946171303",OTHERS,Police,0.49738392
+119,"mentaly challenged man(Radhakrishnan) making problems infront of vadakkumnatha temple,9847130996.",OTHERS,Ambulance,0.4747154
+120,"caller informs that 15 persons were gatherd & not take social distance at Kottayam, Kaipuzha - Palluthazha market  9645038320,Gandhi nagar p.s",OTHERS,Police,0.48628274
+121,"people gathering from thrissur
+loc: chittadi
+mangalam damps
+9562876063",OTHERS,Police,0.40930378
+122,"a vechile seen suspiciously  KL 13 Z 1203 
+loc: green gardens ,kakkoni pilathara 
+9895067685",OTHERS,Ambulance,0.5911831
+123,"caller informs damaged fish selling near puthiyakadavu beverage godown
+vellayil ps  8891777223",OTHERS,Ambulance,0.47441307
+124,"A lady fallern from  scooter Loc:- Kurunganoor, near Oxygen  9497781092",ACCIDENT,"Fire, Ambulance","0.5966625, 0.5028648"
+125,"shops are opened halfly and selling going on hot spot areas. crowd is there
+loc: yma road, near kaduvakulam
+east ps
+8606107148",OTHERS,Ambulance,0.5786054
+126,"caller informs that an accident Gas cylinder lorry with car,no casuality Mission hospital near Seventhday school 9447833103,Kattoor p.s",ACCIDENT,"Ambulance, Fire","1.0, 1.0"
+127,"Son  (Habel) create nuisance Loc:-  Kalathipady, Njarakkal, Ponpally  9947217920",OTHERS,"Police, Ambulance","0.5536479, 0.547318"
+128,CALLER INFORMED THAT SOME PEOPLE ARE WEARING WITH OUT MASSEK GATHERED AND WALKING IN THE GOLF CLUB KOWDIAR,OTHERS,Ambulance,0.5108506
+129,"A crowd at Padinjattumuri, Chaprat lake.  Iringalkuda PS, Thrissur. 7736340651",OTHERS,Ambulance,0.5786054
+130,"people gatherd infront of a live tea shop (cheyli's shop)
+loc:pothode ,near changanassery market EMS road 
+9446195318",OTHERS,Ambulance,0.4193157
+131,"caller informs that 15 persons were gatherig at   Ajeeshs house tea shop  ,Farook check  post,Chulliparambu road side 9847059847 - Ferook p.s",OTHERS,Police,0.48628274
+132,"Husband  Jayan making problem to priya. Complainant is their house owner. Loc. House No 23, Rajiv gandhi lane, Near Vaduthala market. Ph.9037335090",CRIME AGAINST WOMEN,"Ambulance, Police","0.5416523, 0.5063354"
+133,"People gathered and playing football at Eruthanamkad ground.  loc... Near st, marys church.  Ezhukone PS Kollam. 9567321290",OTHERS,Ambulance,0.4893517
+134,Caller informed that about 100  people gathered in a vegetable whole sale  shop Loc:-  Kummanam Jn   9895238900,OTHERS,Police,0.48562047
+135,"gathering people at chavakkad 
+ near chavakkad town 
+chavakkad ps limit 9447919459",OTHERS,Ambulance,0.4539284
+136,"people gathered (around 100) at Kombara Junction Stop, Kombara,
+ Edathala, 
+ps",OTHERS,Police,0.4372534
+137,"caller need vehiche who is 82 yrs of age , he informed he is sick now , need police help (7510454421)
+add: palamoottil thekkathil, pathakkadavu, padinjare kallada
+sasthamcotta ps",OTHERS,"Police, Ambulance","1.0, 0.56292605"
+138,"caller need food items for 6 persons Antony Sakariya - 9947523369 kattappana,kanchiyar Panchayath ,Kattappana p.s",FOOD SUPPLY,Police,0.48628274
+139,accident injury is there at kazhakoottam jn near udaya agency need police and ambulance 9496536399,ACCIDENT,"Police, Ambulance","1.0, 1.0"
+140,A chicken shop open  and functioning Loc:- Peruva alinchuvadu   8547911877,OTHERS,Ambulance,0.49565232
+141,"tea shop opened at kavalangad jn 
+shop name  : bismillah 
+oonnukal ps",OTHERS,Ambulance,0.46881586
+142,"caller is from alappuzha ,she need medicine for her daughter from thrissur 
+directnthe caller to wtsapp the personal details andDr prescription o oncern num for further necessary actiion 
+so event close properly",MEDICAL SUPPLY,"Ambulance, Police","1.0, 0.7203995"
+143,"caller is from kottayam. need medicine for heart problems from panniyodu, kattakada. Gave whatsapp number and details.",MEDICAL SUPPLY,Ambulance,1.0
+144,"A man who jumped from vehicle creating problem in front of Sree Ragam Auditorium Pappanamcode near white dammer hotel. That man is having some medical issues he was tied and sending to hospital.
+9895647261",OTHERS,"Ambulance, Police","1.0, 0.5413315"
+145,"peoplea are gathered in sale of fish in kanakunnu jetty alappuzha ,kanakakunnu ps 9446917755",OTHERS,Police,0.47886887
+146,"caller informed that a tamil person using abusive words and creating problem 
+loc- ST ALPHONSA CHURCH BHARANANGANAM ,PALA PS 
+6235222125",OTHERS,Police,0.6788028
+147,Caller need medicine from Mental hospital trivandrum to Kollam Vilakkupara. provided whats app No. to caller for sending medical details,,"Ambulance, Police","1.0, 0.55260974"
+148,"Land dispute (neighbour Babu makes nuisance to the caller)
+Kunnathu house, Karapotta, Nattuvazhi, Vadakanchery PS, Palakkad
+7034647052",OTHERS,"Police, Ambulance","0.5536479, 0.547318"
+149,"caller informed that her daughter in law(raji) is attacking her,and creating issues in home,she seeks police help
+loc:thuneth kizhakkathil,east of thuneth school,west of pathiyur,kareelakulangara ps
+7356883578",CRIME AGAINST WOMEN,"Police, Ambulance","1.0, 0.53521705"
+150,"Domestic violence against the caller,Edamanni house,kunnini,manimala,kottayam,Asha D/o Thankachan,7291007076",CRIME AGAINST WOMEN,Police,0.6658968
+151,"caller is a migrant labourer. need food items for 9 persons. near masjid, ayikkarapadi. kondoty ps. ph: 6282041740",FOOD SUPPLY,Police,0.48628274
+152,"Callers Brother Saji making problem, attacking the caller.  at panayaravilakam laksham veedu, near chirayinkeezhu taluk hospital.",CRIME AGAINST WOMEN,"Ambulance, Police","1.0, 0.6981656"
+153,"caller informed  (one mrs sini  ward member )selling chickens  in her house illegaly , before police & health Deprt came & warned to stop, now she doing it again 
+police 
+loc : sini / ward no :3 sasatamcotta / near by Muthupilakkadu Parthasarathi temple Road, Bharanikavu, Kerala, India  9526905421",OTHERS,"Police, Ambulance","1.0, 0.5417813"
+154,"a person named ANTONY mentally challanged man wandering around the places for food,need police assistance
+loc:-PARATHODE CITY,near Fedaral bank ATM,near Old post office,VELLATHOOVAL PS,8111871142",OTHERS,"Police, Ambulance","1.0, 0.61133564"
+155,"peoples are gathered and  worked in  korachan's  18 acre  tea estate,mettakal ,parathode, pondichery  estate,mettakal, poonchola estate mettakkal, swarnakuzhy estate ( owner  moni),nedumkandam ps 8943575713",OTHERS,Ambulance,0.46703008
+156,"violation of lockdown,people assembled in funeral house( rugmini's house) near  bonami estate 
+csi church bonami 
+vagamon ps 
+9188206482",OTHERS,"Ambulance, Police","0.5679228, 0.5667782"
+157,"people gathering  and they do not keeping   social distance and  not wearing any mask  at fish market    mathilil   kadavoor kollam
+8086489364",OTHERS,Ambulance,0.4828957
+158,caller informed that people gathered in a shop. opposite cement godown. thirumoolapuram. thiruvalla ps. ph: 9544200494,OTHERS,Police,0.48562047
+159,"severe fever,vomting,ned ambulance to go to taluk hospital,loc:josua john,anjiliparambil,thiruvanjoor,thothooty dyana kendram,8129856407",BREATHING DIFFICULTIES,"Ambulance, Police","1.0, 0.53521705"
+160,"DOMESTIC VIOLENCE ,NEED POLICE HELP 
+LOC- NEAR MATHOOR BHAGAVATHI TEMPLE ,HILLPALACE
+9539605442",CRIME AGAINST WOMEN,"Police, Ambulance","1.0, 0.53521705"
+161,"NEIGHBOUR MAKKING ISSUES
+LOC:NEAR CHENGALAM MOSQUE,CHENGALAM ,PALLICKATHODU PS 9496113416",OTHERS,Non Crime,0.32918537
+162,"One plastic making company is working & more than 50% workers are there. They are not taking necessary precautions.
+
+Loc - Suraj Poly Fabs, Perumpi, Koratty PS, Thrissur.
+PH :: 9746143781",OTHERS,Ambulance,0.5305416
+163,"caller informed about 17 workers gathererd for drainage works.loc:chakkezhathu junction,near mukkathode school ,chavara ps 7736339208",OTHERS,Ambulance,0.51775527
+164,"childrens are playing  at st thomas school ground ,poonthura, poonthura ps 9895196917",OTHERS,Ambulance,0.49126267
+165,"people gathered for hair cutting ,Aji hair cutting (shop is open), east of kareelakkulangara junction, kareelakkulangara ps  7736139438",OTHERS,Ambulance,0.52825904
+166,"caller informed people gathered in a hotel.loc;millupadi,perumkutti junction,ramapuram ps 9544998130",OTHERS,Police,0.48562047
+167,"A shop(MOOSA'S) is opened and sales cigarette and pans,palavachuvad town,payyoli,9400735073",OTHERS,Police,0.5329028
+168,"Fish selling at Pavithreswaram,Puthoor ps,ph-6282507324",OTHERS,Non Crime,0.37743366
+169,"caller's husband not take care of her and childrens ,they need food materials 
+loc- puthiya veetil house,kanikunnu, thaliparambu 
+ph-9961415270",FOOD SUPPLY,"Ambulance, Police","0.569348, 0.51630324"
+170,"construction works in mj prasads newly building muttappalli 40 acre , erumeli panchayath , erumely ps ktm9656236062",OTHERS,Ambulance,0.46703008
+171,"caller is a Railway Engineer, he informed that 6 persons walking on the track they went to Mangalapuram.
+Loc : Neeleswram Railway station , Neeleswaram PS, 9961443307",OTHERS,Ambulance,0.5108506
+172,"caller informed her son in law take away her all belongings  and her documents including id and aadhaar.need police help.loc.kumaramangalam.near classic motoers asok  leyland ,thodupuzha p s ph. 9544307726",OTHERS,"Police, Ambulance","1.0, 0.68770957"
+173,"the caler informedtrhat  Drunken anilkumar make nuisence to the public,
+loc:-ambedkar gramam,  valiyathara, kadav vengara karunapaly, ps 
+7012517446",OTHERS,"Ambulance, Police","0.65686446, 0.535538"
+174,"log tech computer shop opened daily ,today itself it is working, peoples are gathered in this shop near kadalum kayalum restaurant ,vrindavan gardens road, museum ps  8590843602",OTHERS,Ambulance,0.46881586
+175,"PEOPLE  GATHERED AT MUTTUNGAL (CHIRAYIL BACKERY),
+LOC:MUTTUNGAL BRIDGE,VAZHAMAN,VAIKKOM PS 7507707831",OTHERS,Ambulance,0.4104731
+176,"caller informed that a group of people are coming from tamil nadu,L & T construction labours,pollachi- thrissur 320 kv transmission line workers, they will reach anipur through secret path,kozhinjampara ps
+8606319459",OTHERS,Ambulance,0.5378897
+177,"Crowd gathering infront of Miner city met,due to the shop is opened,wearing no masks,nedumkandam,7306175021",OTHERS,Ambulance,0.5786054
+178,"heavy crowd at eravipuram market,eravipuram ps 7034639075",OTHERS,Ambulance,0.5786054
+179,"caller(santhosh) informed his sisters daughter(manju) physically harassed by her husband.loc:omana vilasom,mannadisala,vechoochira ps 9605528758",CRIME AGAINST WOMEN,"Ambulance, Police","0.60952806, 0.5079889"
+180,"Caller's daughter  is a divorcee and staying alone she needs police help for purchasing goods and other necessary items-loc-Hajimoto,kalliasseri,ph-(7559878415-fouzia),ph-9846755102",OTHERS,"Police, Ambulance","1.0, 0.6043416"
+181,"caller informed that his neighbour's house construction work going on.
+Loc : Kanakkadippadi, Vellayamkudi, Kattappana PS, 9544643343",OTHERS,Ambulance,0.5199893
+182,"vehicle breakdown. need assistance. near sbi, mananchira. kozhikode town ps. ph: 9946351929",OTHERS,"Ambulance, Police","0.5249698, 0.51478356"
+183,"caller informed that monayyi he came from ernakulam yesterday and not obeying the govt rules and regulation 
+add: monnayi kuntha purakkattu veedu poonjar kaduvappara .panchayat poonjar thekkakara ,
+loc: near kseb office st antony higher secondary school poonjar 8590262610
+erattupetta ps",OTHERS,Ambulance,0.49126267
+184,somebody tress pass her land and making issue 8301064983 kadakkavoor ps,OTHERS,"Ambulance, Police","0.5689189, 0.5594407"
+185,"violation of lockdown,people assembled and  shop were opened near mathil co operative bank peringome ps 
+9847209255",OTHERS,Police,0.5667782
+186,"As part of Bypass road construction some people are daily crossing Kerala - Tamilnadu border,and when this detail was enquired by police they claimed that they are staying in labour camp ,kerala Loc:Kallumala,Kanjiramkulam PS 9349424287",OTHERS,"Police, Ambulance","1.0, 0.5504815"
+187,"sir inform that yesterday evening some illegal collection of money by some outsiders ,LOCATION: DR ALEXANDER JACOB IPS,35,BELL HEAVEN COLONY,KOWDIAR,Museum Ps 9446310124,04712310124",OTHERS,Police,0.99999994
+188,"caller informed that his drunken neighbour Aniyan physicaly abuses his own wife and children 
+loc- ambedkar colany, valiyarakadavu
+ph-7034741909",OTHERS,"Ambulance, Police","0.65686446, 0.58688027"
+189,"A Migrant Labour Fell Down Unconciously need Medical Aid & Ambulance at Pandalam Jn  Back side Shines Hotel near  Pandalam YMCA , Pandalam PS   :   9446443215",PERSON COLLAPSED,"Ambulance, Police","1.0, 0.53521705"
+190,"Caller informs that huge crowd is formed in Front of market at Andoorkonam Jn, Pothencode PS, Tvpm Ph : 9562916438",OTHERS,Ambulance,0.5786054
+191,"caller (  9645757010 ) informed that 8 North Indains seeks food material.  They residing nearest to the caller's house. 
+Loc : Near Kodakkadu Govt . Ayurveda Dispensary,  Kodakkadu, Vallimukku, Parappanangadi PS, 
+Upendra 9074664703",OTHERS,"Ambulance, Police","0.6939143, 0.51630324"
+192,"caller informed  people gathering  in front of party office  in all time
+loc : mariyapally / near by VHSS school / near by devu's bakery shop 9846793107",OTHERS,Ambulance,0.49126267
+193,"A Migrant Labour Fell Down Unconciously need Medical Aid & Ambulance at Pandalam Jn  Back side Shines Hotel near  Pandalam YMCA , Pandalam PS   :   9446443215",PERSON COLLAPSED,"Ambulance, Police","1.0, 0.53521705"
+194,"Family Issue (Husband Raju makes nuisance and quarelling at the house)
+Radhika Bhavan, Vayalil Veedu, near Thavook company, Unnumoodu, Asarimukku ,Boothakulam, Paravur PS, Kollam-  9061514219",CRIME AGAINST WOMEN,"Police, Ambulance","0.5536479, 0.547318"
+195,"Caller and husband not getting sufficient food . Need help.Loc: near a ration shop ,new karakkamandapam, near paappanamkode, Nemom ps 9567528143",FOOD SUPPLY,"Ambulance, Police","0.5416523, 0.5063354"
+196,huge crowd  at   market road Eravipuram  kollam 8921550486,OTHERS,Ambulance,0.5786054
+197,"Migrant labours need food
+loc-Near to Vettoli Bus Stand,Pannur
+7050359331",FOOD SUPPLY,Ambulance,0.41050482
+198,"crowd at a death house.  elamthurutti, AKG gramam, near oushadi, ollur ps",OTHERS,"Ambulance, Police","0.62130266, 0.5781591"
+199,"Caller informed that a unknown person is seen to the caller house need police help for further action 
+loc:Karuvatta,Harippad ps
+7994013115",OTHERS,"Police, Ambulance","1.0, 0.53521705"
+200,"Neighbour family distrubing her. Location: Perumthuruth, Kallara, Kottayam.Phone: 9633012707",OTHERS,Non Crime,0.36824366
+201,"caller informed that illegal sand transportation by lorry -- at beach area 
+loc:: uppala gate -- harbour road 
+manjeswaram ps limit 
+9746916839",OTHERS,"Police, Ambulance","0.99999994, 0.5670359"
+202,"some youngsters gathered and engaged in some illegal activities 
+need police patrol
+under a tower near st antonies church athani 
+thrikkakara ps  7593906707",OTHERS,"Police, Ambulance","1.0, 0.53521705"
+203,A tree fell upon to the 11 KV line in the compound of the Abdhul Kalam Higher Secondary School. Caller informed it to KSEB. Location:,OTHERS,Ambulance,0.6243814
+204,"caller heared  suspecious noice near his house
+address;kangappad house challissery street kuriachira
+9349896886",OTHERS,Ambulance,0.44620264
+205,"caller informed that a man named biji jith dispute with family members
+address:biji jith
+pulipara vijayam bunglow melam bhagam
+ maryapuram
+near MOUNT CARMEL CHURCH MARIYAPURAM
+9567550394",OTHERS,"Police, Ambulance","0.5413315, 0.52920735"
+206,"CALLER SAYS SHE IS SICK AND ALONE AT HOME, ASKING FOR HELP TO GO TO HOSPITAL
+LOC: NLRA 50, NEERAZHI LANE , ULLOOR, MC PS
+SUJATA 9526553264
+JITHU 7012855601(SON, NOT IN HOME)",OTHERS,"Ambulance, Police","0.56292605, 0.5309923"
+207,"caller informed that illegal arrack making going on.. in house 
+loc:: 4 cent colony -- charoor kadavu
+karunagapally ps limit 
+6235431211",OTHERS,"Police, Ambulance","0.99999994, 0.5199893"
+208,"accident  at  kongad  turning road.
+7994423675",ACCIDENT,Ambulance,1.0
+209,"a lorry fell into a field at kottassery,kongad ps
+9942951433",ACCIDENT,Ambulance,0.6243814
+210,"caller inform that his neighbour a lady told that someone tresspassed to her compund and she need police help
+chavar panman bharath junction
+chvara ps 9526768610",OTHERS,"Police, Ambulance","1.0, 0.5988113"
+211,"The Caller found a vehicle carrying pigs, at Koombampra, Adimaly PS, near Forest kavala 9846011486",OTHERS,"Ambulance, Police","0.5249698, 0.51478356"
+212,"Caller informed that he and his wife were living lonely. They usually hearing some unusual sounds.
+Location : Near Poonkunnam Railway station.
+Address : sukumaran,
+uzhas,
+ new agraharam road,
+poonkunnam
+9496952367",OTHERS,"Ambulance, Police","0.59526384, 0.58688027"
+213,"suspecious sound heared near the caller's house 
+address;kallapulli mythri nagar  1 d1,near thondarkulangara tempke
+9495205373",OTHERS,Police,0.51630324
+214,"Some shops are opened at thodupuzha market, 7025412993",OTHERS,Ambulance,0.46881586
+215,"lots of vehicles going at rajan mukku,kk bustand-hospital road,kannur",OTHERS,Ambulance,0.5199893
+216,"Caller informed that without the number plate an other state lorry is seen near to the kanjiramkulam junction 
+loc:Kanjiramkulam Junction 
+6235277875",OTHERS,Ambulance,0.5670359
+217,"people gathered violating government rules at ezhoor road,ulikkal ps
+9746206789",OTHERS,Police,0.58270067
+218,"people gathered ina a market at tv puram, vaikkom , not forming any social distance 9645302658 vaikkom ps limit",OTHERS,Ambulance,0.41592088
+219,ALARAM HERING FROM CANARA BANK THRIPPUNITHARA  IN BETWEEN  KARINGACHIRA TO IRUMBANAM,OTHERS,Non Crime,0.38882548
+220,"Peoples gathering at Paravoor Maniyankulam Bridge.
+
+9995535921",OTHERS,Non Crime,0.3877746
+221,"caller  informed,tea  shop  is  opened  other  state  lorry  drivers  and  people  gathering  there,, loc; kunjippalli, near  mahe boarder, kannur.9074363321",OTHERS,Ambulance,0.5670359
+222,callers husband binu making issues at home need police assistance at  vellamunda madathum muni near muslim church 9207596784,OTHERS,"Police, Ambulance","1.0, 0.5416523"
+223,"Caller informed that some issue happend on the caller house need police help for further action
+loc:Near to Ujjin Theatre,Kambalakkad ps
+7558988416",OTHERS,"Police, Ambulance","1.0, 0.53521705"
+224,"son (rajesh) making issues to the caller ,he need police help
+payyanadan house,payangodanpara,near kottali kavu,town ps
+9633859905",OTHERS,"Police, Ambulance","1.0, 0.53521705"
+225,"Caller informed that an accident happend near to Kavanad altharmoodu,person got injured need ambulance service.
+loc:Altharamoodu,Kavanad
+7510832886",PERSON COLLAPSED,"Ambulance, Police","1.0, 0.53521705"
+226,"crowd of people is seen in a house near aliyad thampuran temple,venjarummood ps
+9496588740",OTHERS,Ambulance,0.5786054
+227,"puliyanmala milk society ,peoples blocked secretary at puliyanmala junction
+vandanmedu ps ,need help",OTHERS,Police,0.47071752
+228,"trees fell across electric line.
+may cause electric shock to unknown passengers.
+near elavungal bhagavathy temple
+paamangodu
+nemom ps
+8129868649",OTHERS,"Ambulance, Police","0.6243814, 0.52612597"
+229,"Some people intrude into callers home and assaulted him. The caller is injured.
+near anganvadi,
+santigiri 19 angan vadi road , kumily
+9497367284",OTHERS,"Police, Ambulance","0.6869935, 0.6230535"
+230,"Callers wife (Lalitha Bhai) suffering with health issues. They need support to goto Hospital.
+Location :  Erumappety Vendasseri vayanasala.
+9446924919",OTHERS,"Ambulance, Police","0.699462, 0.58688027"
+231,peoples gathering at kuthumkal junction area 8301951735,OTHERS,Ambulance,0.42728227
+232,"Decade fish is selling in front of Kuttippuram Govt. Hospital,Near Kuttippuram PS, Malappuram. Phone: 9447189529",OTHERS,Ambulance,0.4473341
+233,"nithin hotel and restuarent oppened and working now
+loc; koottakkallu   melukavu ps 
+9447869665",OTHERS,Ambulance,0.46461695
+234,"due to leake of water from pipe connection make road damage and making accidents at kothamangalam-moovattupuzha near sub station,kothamangalam ps",OTHERS,"Ambulance, Fire","0.61088544, 0.60581565"
+235,"caller's son is omitting blood. he need to admit in hospital - loc: grace cpottage TC 5/2070 vrindavan garden 47 ambalmukku, peroorkada ps ph: 7593940320
+ph: 7593940320",PERSON COLLAPSED,"Ambulance, Police","1.0, 0.5309923"
+236,"13 hindi people need food near chugam masjid,pappinasserry,valapattanom ps",FOOD SUPPLY,Police,0.43247417
+237,"caller informed that sreedevi doing unauthorised construction 
+Loc; Near malappuram firestation, Munduparamba,malappuram ps limit
+6238167401",OTHERS,Police,0.5715981
+238,"Some people gathered for playing near sarakkara pond, thattamoola 
+9349540070",OTHERS,Fire,0.45743436
+239,"LOADING WORKERS FROM TAMILNADU IN A TRUCK TO LOAD 'KAKKA' 
+LOC: NEAR GURUMANDIRAM AND NSS COLLEGE,CHERTALA
+8129368092",OTHERS,"Ambulance, Police","0.54789317, 0.54507816"
+240,"gathering of people need police asssitance 
+loc:: near vettuthuruth church 
+changanassery ps limit 
+9847075587",OTHERS,"Police, Ambulance","1.0, 0.53521705"
+241,"some family issue  in home 
+2 sisters making problems 
+add :rukia ottupurakkal beenachi, batheri",CRIME AGAINST WOMEN,Ambulance,0.4747154
+242,"unwanted gathering and some people fishing in
+cheloor kayal
+loc: east side of the old bharanikavu bus stop",OTHERS,"Police, Ambulance","0.52392405, 0.513405"
+243,"caller informs that wifes brother making problems to him & family need police help 8157000418 - Arun,Vaikathu valappil house,kalpatta Vellaramkunnu,Chudayil p.o, Perumthatta,Thondernad p.s",OTHERS,"Police, Ambulance","1.0, 0.53521705"
+244,"gathering people at thuravoor chavadi 
+near tds school 
+kuthiyathodu ps7907189485",OTHERS,Ambulance,0.49126267
+245,"Caller said that, her neighbour making problems near west vaddi. need police help (neighbour name Alanjoy)
+Address; kallelivayal purayidam kayikkulagara west vadi,",OTHERS,"Police, Ambulance","1.0, 0.5424937"
+246,"Krishnan kutty(55 years old), reached home yesterday morning from ernakulam.And the medical officers advised him to take on corodine .but he violating corona rules.
+Loc: near ayathil juma masjid, near macri illakkulam, kilikoloor ps,9746896577",OTHERS,"Ambulance, Police","0.74481684, 0.67841274"
+247,"Caller is a Kidney patient need a vehicle for hospital 9496817482 Somanvelayudhan,Ellumoottil house,Karimannoor,karimannoor p.s",OTHERS,"Ambulance, Police","1.0, 0.51478356"
+248,"caller said that he had found a drone from his upstairs
+loc:near hotel friends , cochin fisheries harbour road 
+9633689247",OTHERS,Ambulance,0.5424937
+249,"Need food for family members Loc:- Mundiyeruma, Devagiri near Annapurneswari temple     8156957840",OTHERS,Police,0.43441918
+250,"7 north indians are suffering from lack of food 
+loc ; valavoor
+near the indian institute of information and technology 
+pala ps",FOOD SUPPLY,"Ambulance, Police","0.699462, 0.58279204"
+251,"caller informed that 4 persons came from tamil nadu and see a suspecious condition near upasana hospital 
+kollam east ps 8594012165",OTHERS,Ambulance,1.0
+252,"crowd people, near chakkupallam, NSKP group estates, infront of chakkupallam driving school. need police help. caller no9947972663",OTHERS,"Police, Ambulance","1.0, 0.5786054"
+253,"crowd at elankur ,mancheri p s
+7511142385",OTHERS,Ambulance,0.5786054
+254,"caller said that a qurantain family member mingling that area local people and his frends ,need polilce help (adimali ps limit, anakulam ,chettukudy meeran house , cont no 9947323561",OTHERS,Ambulance,0.5424937
+255,"many men playing in water and gathered there  at calicut eranhikkal canoy canal by avcoiding all precautionary methoed of covid 19 spreadding
+9567426345",OTHERS,Fire,0.60581565
+256,"caller said that a family from eranakulam came to near by house and didn't obey lockdown rules 
+loc:ponnathe SREEDEVI's house ,near naduvilal centre ,madaikonam 
+4802832492",OTHERS,Ambulance,0.5424937
+257,Daughter in law is brutally attacking the caller Leela. Loc:Mannancherry near Kottiyoor temple (Caller - 9400661053),CRIME AGAINST WOMEN,"Police, Ambulance","0.6981656, 0.59213686"
+258,"tree felldown .road blocked.loc:19 mile,ottappalam ps 9526047924",OTHERS,Ambulance,0.41369924
+259,"People gathtered together at   Chalilthazham ration depot
+ kakkodi, Chevayur, Kozhikode PH:  9809933888",OTHERS,Ambulance,0.47675973
+260,"caller informed her sister making serious issues in her house , (9497031824)
+add:chakkupurakkal,anathanam ,kalathil pady
+ktm east ps",OTHERS,"Police, Ambulance","0.56085914, 0.50735384"
+261,"Complainants husband Madhu making problem to her. Loc.Back side of Service Coperative bank, Adakthbail, Kelugudde, Kasargod PH 9946798227",CRIME AGAINST WOMEN,"Ambulance, Police","0.5416523, 0.5063354"
+262,CALLER INFORMED HE NEED MEDICINE OF LIVER DISEASES  LOC WAYNAD MEPPADI,MEDICAL SUPPLY,Ambulance,1.0
+263,"caller informed that 2 andhra pradhesh registered vehicle is seen infront of kandhalloor garma panchayat office,karthikappally,kanakakkunnu ps
+9526239643",OTHERS,"Ambulance, Police","0.5249698, 0.51478356"
+264,"caller said that  his nephew older brother 20 sasikumar 
+physically assulted his brother of 16 yrs of age 
+swami vilasam 
+kizhakku veed kumili 
+near grace cinema
+9539461127",OTHERS,"Police, Ambulance","0.5540106, 0.5424937"
+265,"Caller informs, someone left from their area before lockdown has reached there from Chalakkudy yesterday. Loc: 1st right turning near the Church and Men's hostel at Puthiyakavu Jn on the Market road. (Caller -8848920757)",OTHERS,Ambulance,0.49576882
+266,"selling banned tobacco product at  a shop 
+opposite alsakki restaurent , 
+l shops near 
+punjirikkavu temple 
+ thrissur 
+perumbilav 
+kunnamkulam
+8086482567",OTHERS,Police,0.596044
+267,"Caller said that, her neighbour try to suicide attempt, near Kannamoola junction, need police ambulane help
+location; near Kunnupuram, kannammoola
+9747301841",OTHERS,"Police, Ambulance","1.0, 0.5424937"
+268,"informed dcc
+caller from kollad need inhailer
+9526790839",OTHERS,Police,0.48562047
+269,"crowd of people engaged in fishing(above 100)
+loc: perinthalmanna ps
+aanamangad
+manalaya siva temple (near river)
+6282931703",OTHERS,Ambulance,0.5786054
+270,"caller informed that, some people gathering (gambling)
+near puthentheruv,need police help 
+loc-ambanattu mukku corednde junction",OTHERS,"Police, Ambulance","1.0, 0.53521705"
+271,Caller seeks medicine for his child from Vaikom. Gave whatsapp number for further dealings.,MEDICAL SUPPLY,"Ambulance, Police","1.0, 0.5984392"
+272,"street wendors from tamil nadu are selling various products and crod gathered there.
+loc: in front of thattamala higher sec school. eravipuram PS.",OTHERS,Ambulance,0.49126267
+273,"caller betti need food .. 
+loc:11 th mail
+cherthala  mayithara
+near sent maichel college
+nss karayogam
+mararikkulam ps  9497230817",FOOD SUPPLY,Police,0.49719855
+274,"caller said that her duaghter raped by relative chinnamoolathara ,kozhinjampara p s
+8098367488",CRIME AGAINST WOMEN,"Police, Ambulance","0.65871453, 0.6517423"
+275,"Caller informs, her son of 35 years is at home and is mentally challanged. In every evening he attacks the parents. Caller is seekig help to take him to any mental hospital. Loc: Soufina > Vellithankadan (H) > Near GHSS Mankada Pallipuram (Caller - 9895246416)",OTHERS,"Ambulance, Police","1.0, 0.7848462"
+276,"Need food for 20 north indian persons at tn puram,perinthalmanna ps,9074774690.",FOOD SUPPLY,Police,0.48628274
+277,"caller informed there is crowd  found (arond 30 no:) at chenduvara estate, kundala dam (9495601366)
+munnar ps",OTHERS,Ambulance,0.5786054
+278,"caller informs that more than 100 persons were gathered at Mannathoor,Pulapara granites area,8848251828,koothattukalm p.s",OTHERS,Ambulance,0.523188
+279,"accident at venneeru ,thururangadi p s
+9847195755",ACCIDENT,Ambulance,1.0
+280,"Theft on shop 
+loc: kanamukku near naranganam govt high school 
+9747562392",THEFT,Police,1.0
+281,"Peoples gathering at Mt stores,near meppara ration stores,near kairali network, Kattappana ps,9526843151.",OTHERS,Non Crime,0.3877746
+282,"caller said that medical term instructed a qurrantain man mingling that area local people and  his friends (thevara ps limit,konthuruthy , uthaaman hose . cont no 9746708964",OTHERS,"Ambulance, Police","0.74481684, 0.5413315"
+283,"heavy rush at ration shops
+loc : olari and pulllari 
+ Kadavaram Road
+, Nedupurha, 
+Thrissur,west ps",OTHERS,Ambulance,0.42832175
+284,"gathering people at barbar shop kadakkal anappara jun;
+near vegitabile shop 9496564048",OTHERS,Police,0.40930378
+285,CALLER INFORMED THAT SOME PEOPLE ARE PLAYING CARDS NEAR PALLATTU PADAM KARUVARAKUNDU PANCHAYATH,OTHERS,Police,0.48562047
+286,Kochayyappan need medicine for otism,MEDICAL SUPPLY,Ambulance,1.0
+287,"drunken making family problem  near H S S THEVANOOR  ,CHADAYAMANGALAM P S
+9496123194",OTHERS,"Ambulance, Police","0.65686446, 0.535538"
+288,"caller said that suspeciously saw a drones  hold on a tree ,tirur ps limit, vayalathur, cheriyamundam hig school, velayudhan house ,9846209572",OTHERS,Ambulance,0.5424937
+289,"caller is a north indian labour need food for 4 persons 6238889296 Iliyas  Moovattupuzha - Thodupuzha route manjalloor panchayth,Kathalikkad,Thekkumala jn.,Vazhakkulam p.s",FOOD SUPPLY,Police,0.48628274
+290,"caller said that Gopinathan named person construct a shed on road ,this may lead to traffic conjuntion
+loc:near chundodoe jtn
+9847945370",OTHERS,Ambulance,0.57267207
+291,"caller said that a person coming frenquently from a covid reported place to callers place near amma mess house seafood ,puthiyara 
+medicacolleage ps 7736007775",OTHERS,"Ambulance, Police","0.5424937, 0.51630324"
+292,"unwanted gathering in a shop 
+loc: nair peedika MLA Road, Ummalathoor, Kozhikode, Kerala, India",OTHERS,"Police, Ambulance","0.52392405, 0.513405"
+293,"caller needs food 
+
+hostel :  muslim sevice society complex 
+room no : 8 
+loc : Cherooty Road, 
+near the court and mathrubhumi press and federal bank
+
+kozhikode town ps",OTHERS,Police,0.5559835
+294,"Caller informed that Son Anas destroyed house hold articles, and break windows, doors and create nuisance at home Loc:- HMT road, Thoshiba line, north pipeline, near Ideal building  Ph:   9645338522",OTHERS,"Police, Ambulance","0.5536479, 0.547318"
+295,sand mining at marayoor near michel giri school near kindikunnu colony marayoor ps limts  8301046034,OTHERS,Ambulance,0.49126267
+296,"crowd at kachikadavu junction ,east p s
+9895024550",OTHERS,Ambulance,0.5786054
+297,"bootlegging at kuttan`s(sabin) home, near kannadimukku waiting shed,poloor,puthuppady,thamarassery ps,9496873095.",OTHERS,"Ambulance, Police","0.5953711, 0.5622364"
+298,A lady   have  chest pain need vehicle to get hospital at model girls high school  near swapna theatre   west thrissur 9539542828,OTHERS,"Ambulance, Police","1.0, 0.51478356"
+299,"a man siting at a waiting shed near a Ration Shop.
+Kappara - Ancharakandi Road
+Kuthuparamba PS Limit",OTHERS,"Ambulance, Police","0.5953711, 0.5413315"
+300,"Raju's family  facing some anti socials activities, they make nuisence to the caller.
+cherthala pattanad, ponnavalii, 
+add:- Raju 
+kottezhaththu
+pattanakadu p o 
+cherthala
+(near milma factory, backside of village restarant.)  9645670342 pattanakdu ps",OTHERS,"Ambulance, Police","0.67804897, 0.5413565"
+301,"One man trying to attack caller's house.
+
+Loc - Thalapotte House, Mankurussi, Mankara PS, Palakkad.
+PH :: 8330059971",OTHERS,"Police, Ambulance","0.99999994, 0.5036757"
+302,"A man named Akash using Explosives and making nuisance in front of callers house near  Melamcode Devi temple , Vattavila , poojapura PS
+9526096266",OTHERS,"Police, Ambulance","0.5536479, 0.547318"
+303,"Brewing of Arrack in Saritha's house
+loc-MG Colony,Near to SN College Varkala
+Ph:9961346037",OTHERS,Ambulance,0.5414599
+304,"Dumbing of Toilet waste near Mudakkal palam Jn ner Bhavana Auditorium Venjarumoodu Attingal rd.
+9846930019",OTHERS,Fire,0.56045026
+305,"callers father had a severe stomachache and need a vehicle to hospital,thoppuparambilveedu,nelsonmandela road,palluruthy ps 8113947937",OTHERS,"Ambulance, Police","0.6425673, 0.51630324"
+306,"caller informed that damage fish transporting 
+loc- thoppayil beach ground ,vellayil ps 
+7907156719",OTHERS,Ambulance,0.5089058
+307,"Caller need medical Aid & an Ambulance at Old Doctors Quters  Thazhe Kavinmoola   ,near Hi-tec workshop , Chakkarakkal PS : 7306989919",OTHERS,"Ambulance, Police","1.0, 0.53521705"
+308,"Caller and his wife (sick) needs a vehicle to go home,  they are sitting near Poopally rd, Nedumudy, Alappuzha
+7034427971",OTHERS,"Ambulance, Police","0.59526384, 0.58688027"
+309,"Accident , lorry ht on electric post and line broken at Kshetragiri, Punalur tenkashi route.
+9497768649",ACCIDENT,Ambulance,1.0
+310,"caller informed that his neighbour one Krishnan Nair age 70 suicide by hanging.
+Loc : Chayacharukonam Angan vadi, Vettupara, Cheeranikkara, Thekkada, Vembayam, Vattppara PS, 8281912823",OTHERS,"Police, Ambulance","0.6393695, 0.5342002"
+311,"making of arrack (Reghu )
+loc:-PUTHURUTHY,wadakkanchery ps,8943796233",OTHERS,Non Crime,0.35242254
+312,"a cancer patient condition is dangerous and need vehicle to ho hospital. vellikulam route, uthiniparambal jun, choukka, chalakudi ps",OTHERS,"Ambulance, Police","1.0, 0.51478356"
+313,"Crowd gathering due to the sale of fish near MSN college,kayamkulam,9656852304",OTHERS,Ambulance,0.5786054
+314,"Caller suspect the smell of Amonia at Eloor Jn , Eloor- Container Rd , Eloor PS
+9048246040",HAZARDOUS CONDITION INCIDENTS,"Fire, Police","0.5704974, 0.5589014"
+315,"tea stall working in a home mylappoor, and peoples are gathered near N S  hospital thrikovilvattam panchayathu, kottiyam ps 9526428717",OTHERS,Ambulance,1.0
+316,"a man make nuisence and make disturbance to the neighboutrs. he standing in  panchayath stadium 
+loc:- palamel pnchayath, lp school ermakuzhi , 
+noorandu ps alapuzha 
+8078429980",OTHERS,"Ambulance, Police","0.59663785, 0.5413315"
+317,"caller is fisherman he seen that many person are traveling in boat through sea
+loc:paravoor to thanshery area,PALLITHOTTAM PS,8891003032",OTHERS,Police,0.48304006
+318,"Some north indians gathered near Subramniya temple , Muringoor, Koratty PS, Thrissur
+9745379524",OTHERS,Ambulance,0.4193157
+319,"peoples are gathered in rajadhani hotel , chanthamukku, kottarakkara ps 9496054675",OTHERS,Ambulance,0.46461695
+320,"One bike rider get injured. 
+
+loc- Kadapini -Mankavu Road, Kasaba PS, Kozhikode.
+PH :: 7736772055",OTHERS,Ambulance,0.66511214
+321,"Gas leak ,Need emergency police help Loc:Near Purakkavu temple,Kappil,Krishnapuram,Kayamkulam PS 9961186219",GAS LEAKAGE,"Police, Fire","1.0, 1.0"
+322,"crowd at thiruvalla fish market. persons  are rush in vehicles to take fish . 
+ loc- thiruvalla fish market",OTHERS,Ambulance,0.5786054
+323,"selling of baned narcotic items on a shope near Glp School Kavilpad.
+9645858593",OTHERS,Police,0.7495613
+324,"CALLER INFORM THAT A TAMIL NADU REGISTRATION TATA SUMO,WHITE COLOUR,DROPPED A LADY,WIFE OF SALIM AT CHEMMANTHODE BRIDGE JUNCTION,AND GOES TO KARIMBARA ROAD,NENMARA PS,SEVERAL TRAVELLERS ARE ALSO THERE,8943700287",OTHERS,Police,0.4984038
+325,"Caller informs people are gathered in a tea shop where the said location has been declared as hotspot by the Govt.
+Loc : Ezhamkutty Junction , Karinganoor , Pooyappally PS
+9446907410",OTHERS,Ambulance,0.5424937
+326,"Two tamilians came there from tamilnadu by foot.
+Loc, Near Ice Creem Factory, Near GVHS Maroor, Adoor PS limit",OTHERS,Ambulance,0.42259967
+327,"Tree fell down over electric line and on road,block,kunjathur,manjesawr ps 9895048300",OTHERS,Ambulance,0.6243814
+328,caller informed that large number of people gathered near jagathambika temple murinjapuzha vaikom ps 9995532921,OTHERS,Police,0.48562047
+329,"many people gatherd in NILAMAMOODU-ELLUVILA ROAD,vellarada ps,9633378269",OTHERS,Police,0.40930378
+330,"caller informed her neighnour (bhaskaran ) making & selling of arrack 
+loc : baskara / panakkara house / kurumani road / near by chamundewshwari road 8590067647",OTHERS,Police,0.48562047
+331,"Crowd on a tea stall near Aithiyoor maha vishnu temple.
+9846951053",OTHERS,Ambulance,0.5786054
+332,"Caller informs that an other state person is found suspiciously sitting at the waiting shed. Location : Mukkada Jn, Waiting Shed, Kayamkulam PS, Alapuzha Ph : 9447565235",OTHERS,Ambulance,0.5953711
+333,"CALLER WAS ATTACKED BY HUSBAND JOSE,SMALL INJURY AT HEAD,LOC:NEAR MANGALATHUNADA MARKET JUNCTION,THADIYITTUMULAYIL HOUSE,PATTIMATTOM,KUNNATHUNADU,,NEAR MAZHAVANNUR YACOBIST CHURCH,ASHA 7510396026",CRIME AGAINST WOMEN,"Police, Ambulance","0.67764646, 0.5830886"
+334,shaji tea store  is open and people gathering there at kudukka city adimali idukki 9447743647,OTHERS,Police,0.41638455
+335,"dispute - caller says that  her  husband  rejimon  and fatherin law  quareeled her.palakad,mundakottukushi cheramukkil , near snake mana ,hospital jn , 9846497125cherppulassery ps pkd",CRIME AGAINST WOMEN,"Ambulance, Police","1.0, 0.5063354"
+336,"Bikers and people are using a ramp near Kumbalangi Ezhupunna Bridge to cross the boarder
+9446814037",OTHERS,"Ambulance, Police","0.5839278, 0.5150473"
+337,"Some tamilans doing some job at Puthukkulam Fathima School, Parassala PS limit",OTHERS,Ambulance,0.49126267
+338,"people are gathered in eranikkal kunduparambu road way kenoly chanel ,elathoor ps 7012866426",OTHERS,Ambulance,0.41369924
+339,"People gathered at sukumaran's tea shop . tea shop working unhygenic.near puthukkulam, arayur, parassala.",OTHERS,Ambulance,0.4104731
+340,"People gathered in a Tea shop(Venu Stores) with out mask and spit on road
+Loc:Near to Krishnan Kovil,Ambalamukku
+8075022738",OTHERS,Ambulance,0.5348269
+341,"caller informed that around 20 NOrth Indians gathered and doing electric tower work.
+Loc : Near Medical College Vidyayani Vayanasala, Medical College PS, 9562425600",OTHERS,"Ambulance, Police","0.74481684, 0.51250297"
+342,"People gathered near to a lake for buying FISH, Kaithavalappu, TV Puram
+7356652622",OTHERS,Ambulance,0.4193157
+343,"peoples are gathered and fishing in bank of elamkunnappuzha river ,pallamppally ,njarackkal ps 8943291084",OTHERS,Police,0.42493695
+344,"people gatherd in VAKKAD KADAPPURAM(ansha beach),Tirur ps,9562662364",OTHERS,Police,0.40930378
+345,"caller informed that people gathered in front of tea shop 
+loc- near thrikkannapuram bridge 
+9446260099",OTHERS,Police,0.48562047
+346,Ileagaly working Parutheli Crusurer near Pattimattom.,OTHERS,Ambulance,0.4193157
+347,"People gathered in a canteen inside Ananthapuri Auditorium, Jagathy , Museum PS,TVPM
+7356865994",OTHERS,Ambulance,0.4593932
+348,"Crowd in a Funeral House (Shaji) at Chathinamkulam, Kurunnamani temple ,   kilkolloor PS
+7994288960",OTHERS,Ambulance,0.5786054
+349,"Caller informed young people are planing foot ball in polytechnic ground every day morning
+Loc: Tirur polytechnic ground 
+tirur ps
+9895445051",OTHERS,Ambulance,0.55567867
+350,"Sales of PAN Masala near Karimban Bridge
+Idukki PS Limit",OTHERS,Ambulance,0.4193157
+351,"caller informed that some one stoped his vehicle and teaken the key (KL29 P9386).
+loc-pandarathuruthu karuvatta 
+karunagapalli ps 
+9061631532",OTHERS,"Ambulance, Police","0.5249698, 0.51478356"
+352,"Bhvani and Rugmandhadan ARE SENIOR CITIZENS ,THEY ARE RETIRD FROM DEFENCE SERVICE 
+NEIGHBOURS ARE MAKING NUISANCE WITH THESE PERSONS 
+LOCATION ERAVU,NEAR TO TFM SCHOOL,ANTHIKAD PS LIMIT",OTHERS,"Police, Ambulance","0.5536479, 0.547318"
+353,"Caller is a North Indian he informed that there is a shortage of food suppliment, need further help.
+loc:Aniyara,Chokli PS
+7439197460",FOOD SUPPLY,Ambulance,0.5368128
+354,"people gathered on a tea stall without any safety measures near cpm office,vadakkan palakuzha,koothattukulam ps",OTHERS,"Police, Ambulance","0.5228763, 0.5002066"
+355,"CALLER SAYS THERE IS TIPPERS RUNNINGIN IN ONLY ONE CRUSHER (SANIYA)
+LOC: KURIANNUR, KOIPURAM PS
+9526846313",OTHERS,Ambulance,0.5500141
+356,"Need food grains for 12 other state employees
+Address:Deva,kerima quaters,sundarimukku,vattavadam panchayath,palankara road pookottumpadam ps limit,malappuram-8509170841",FOOD SUPPLY,Police,0.43247417
+357,"A women named Kandathil Aysha is wandering to the houses at Mokkola, Njattuvayal, Near Thalipparambu Town, Ka",OTHERS,Police,0.48449612
+358,"caller is a heart patient. his neighbour is making nuisence.
+loc:  kanjiram parambathu  near no-4272 sndp gurumandiram kureekkad
+ph: 9388127311",OTHERS,Ambulance,1.0
+359,"people gathered at manaluvattom jn  not wearing mask, kadakkal ps limit 9961634271",OTHERS,Ambulance,0.4828957
+360,"Illegal selling of cigeratte and other tubacco products at Alangodan bakery, Velloor junction, Mala
+9495061119",OTHERS,Police,0.99999994
+361,"Caller and his room mate from Pathanamthitta ,now they are at here for Rubber tapping ,had no money or food meterial,need any help.
+Loc : Kodlamogaru,Bolna near Sree mahamayi temple,Manjeswar ps 9902183642",FOOD SUPPLY,Ambulance,0.5639824
+362,caller said that people gatherd at a shop near nims hospital neyyattinkara ps  9809494900,OTHERS,Ambulance,1.0
+363,"20 ladies gathering near krishi bhavan, Sree Ram Temple Road,Kanjikuzhy
+Mararikkulam Ps
+7902372",OTHERS,Ambulance,0.4193157
+364,"neighour tresspassed and making problem at kamalamma's house,near mithrakeri devi temple,niranam ,pulikeezhu p s
+8289955140",OTHERS,Non Crime,0.39184484
+365,almost 50 other state men doent got any thing to east at anjarakandy chalod road 6282729257,FOOD SUPPLY,Ambulance,0.5528461
+366,"Need food for 20 north indian persons at tn puram,perinthalmanna ps,9074774690.",FOOD SUPPLY,Police,0.48628274
+367,more peoples are gathering in a ration shope near nallalam bazar olavanna road nallalam,OTHERS,Ambulance,0.4193157
+368,"Olayambadi road is closed. But after removing the obstrction, vehicles are free flowing. Location: Oolayambadi Road, Peringam, Perunthatta, Payyannur, Kannur . Phone: 7025397423",OTHERS,Ambulance,0.49495673
+369,"one person creating issue 
+kollam lal bahadur shasthri stadium 
+ph 8547846595",OTHERS,Police,0.48304006
+370,"caller says KSEB staff working infront of her home , they not obey the sociala distancing , the house at ponyam pulliyodu road , kadirur ps limit  8330852547",OTHERS,Ambulance,0.51974237
+371,"caller inform that a boy has been seen on suspicious occassion for three days in front of mannamoola milma booth 
+need police patrol
+peroorkada ps  
+7560901750",OTHERS,"Police, Ambulance","1.0, 0.5734874"
+372,some people gathered at ramavarma jn near homeo dispensary for taking water but some people not wearing mask alappuzha north ps 7025067325,OTHERS,Fire,0.60581565
+373,"crowd gathered at vayalar pullanchira bridge 
+ph 9946478717",OTHERS,Ambulance,0.5786054
+374,"4 north indians need food 
+loc: punnalur ,govt thaluk hospital",FOOD SUPPLY,Ambulance,1.0
+375,caller informed that 'Attukal hotel' is open in hot spot and serving food inside and people are entering through back entrance. near thunchan smaraka inglish school. kalippankulam. fort ps. ph: 6238370789,OTHERS,Ambulance,0.52116
+376,"Need medcine for kaviyur, Pathanamthitta",MEDICAL SUPPLY,Ambulance,0.41050482
+377,"Gamblilng and drinking alcohol near river side, thonipalaym, Valiyapadam, Palakkad North ps 
+6235684297",OTHERS,Police,0.60636157
+378,"Neeed medicine for a heart patient
+Loc; Vazhvanthol, Mattannur",MEDICAL SUPPLY,Ambulance,1.0
+379,"Caller informed from vanichal around 20 north indian labours travelled in mini tempo lory towards Chakkarakkal without precautions
+loc: vaniyamkal towards Chakkarakkal
+9880322166",OTHERS,Police,0.48562047
+380,"caller is northindian need food ,14 people
+loc:-near KSRTC workshop ,kandanakam,ponnani ps",FOOD SUPPLY,Police,0.43247417
+381,18 north indian  people need food near pulinkudi jn vizhinjam ps 7356520451,OTHERS,Police,0.43247417
+382,"Son in Law named Babu Warrier abusing and misbehave to the caller at home.
+Loc : Pulapetta,Moochithara,Kongad Ps 8086173129",CRIME AGAINST WOMEN,Police,0.6093962
+383,"huge crowd at market near plavilamoola ,parassala ps 9037963815",OTHERS,Ambulance,0.5786054
+384,"violation of lockdown
+unlawfull assembly of people without wearing mask in market oppossite of poothappara juma masjid azhikode
+need police patrol
+valapattanam ps  9562745989",OTHERS,"Police, Ambulance","1.0, 0.53521705"
+385,"caller said that around 25 north indians gathering and doing construction  work .
+near govt vocational higher secondary school ,kaipattoor
+pathanamthitta ps
+8113030836",OTHERS,Ambulance,0.5424937
+386,"Some problem are going at Callers near by home (Nishad), The house is  Near Driving test ground, Thonichal, Irumbupalam, Manathavadi PS 9074773059",OTHERS,"Ambulance, Police","0.5199893, 0.51630324"
+387,"Caller informed his brother Mr Sudheesh making trouble at home destroying house hold appliance tried to beat his brother and him.
+Loc: Anaparaparambil house Nedumassery Kaprassery 
+Nedumbassery ps
+8075858834",OTHERS,"Police, Ambulance","0.57289636, 0.54831463"
+388,"caller informed that a strange person is wandering 
+loc-near nattakam village office , 
+chingavanam ps limits
+9947787504",OTHERS,Police,0.48562047
+389,"Above 200 north Indians gathered for rally. loc. Chattiparamba markety Junction,  Kolathur PS limit. Malappuram . 9447401415",OTHERS,Police,0.44069088
+390,"caller informed many rickshaws running and waiting in auto stand .loc:koottikada auto stand,koottikada -mayyanad route,eravipuram ps 9539014460",OTHERS,"Police, Ambulance","0.6180581, 0.5953711"
+391,honda showroom opened at kanjiramkulam ph 8075031142,OTHERS,Ambulance,0.46881586
+392,"Caller informed there is a procession of north indians started from Dental college juction towards Chattiparamba
+9360896664",OTHERS,Ambulance,0.590541
+393,"Some masons working in near by home. the masons came from lock down area in Neyyattinkara
+panakkode, vattapullu ,
+ near rubber milk storage center
+6282325625",OTHERS,Ambulance,0.46207675
+394,"hotel fuctioning and serving food items.People sitting inside the hotel for having food. Mahalaksmi hotel.nellikkunnam jn. Near saw mill , kottarakkara ps, kollam 8086832459",OTHERS,Ambulance,0.46461695
+395,"CALLER SAYS NEIGHBOUR MAN ABUSED HER,DISPUTE ON BOUNDARY
+LOC: PUTHANKANDAM, NEAR PERINGALA PO, KAYAMKULAM PS
+USHA  9744162243",CRIME AGAINST WOMEN,Police,0.62042093
+396,"caller informed that her nieghbour try to attcking the callers husband and also threatening 
+loc:: vadakkum bhagam 
+melukaavu ps limit 
+9188686782",THREAT,"Ambulance, Police","0.5416523, 0.51630324"
